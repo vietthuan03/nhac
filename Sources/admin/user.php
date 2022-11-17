@@ -9,7 +9,6 @@
     <link href="css/dataTables.bootstrap4.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/fix.css">
 </head>
-
 <body>
     <?php
         session_start();
