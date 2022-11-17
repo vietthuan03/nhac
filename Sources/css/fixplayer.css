@@ -1,0 +1,19 @@
+.dplayer{
+    width: 97%;
+    height: 300px;
+    border: 1px solid thistle;
+    margin-top: 30px;
+    margin-left: 10px;
+    position: relative;
+}
+.dshow{
+    width: 96%;
+    height: 320px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #eee;
+    color: #444;
+    margin-top: 20px;
+    overflow: hidden;
+    position: absolute;
+}
